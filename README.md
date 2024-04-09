@@ -9,3 +9,4 @@
 * https://learn.microsoft.com/en-us/training/browse/?terms=c%23&skip=30
 * https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022
 * https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022
+* https://www.w3schools.com/cs/index.php

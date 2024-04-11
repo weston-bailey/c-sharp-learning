@@ -59,5 +59,13 @@ class Program
         // Convert.ToBoolean, Convert.ToDouble, Convert.ToString, Convert.ToInt32 (int), Convert.ToInt64 (long)
         char convertedChar = Convert.ToChar(111L);
         Console.WriteLine(convertedChar);
+
+        // Are strings refernce types? -- they can  be copied with the assignment operater but are nullable
+        string stringReferenceTest = "testing if this is a reference.";
+        string stringReferenceTestCopy = stringReferenceTest;
+        stringReferenceTest = "Banana";
+        Console.WriteLine(stringReferenceTestCopy);
+        stringReferenceTest = null;
+        Console.WriteLine(stringReferenceTest);
     }
 }

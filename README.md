@@ -10,3 +10,4 @@
 * https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022
 * https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022
 * https://www.w3schools.com/cs/index.php
+* https://learnxinyminutes.com/docs/csharp/
